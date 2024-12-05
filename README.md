@@ -26,6 +26,9 @@
     ```bash
     cd vue-weather
     ```
+    ```bash
+    cd weather
+    ```
 
 3. 安裝相依套件：
     ```bash
