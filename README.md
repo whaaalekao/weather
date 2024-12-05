@@ -24,18 +24,18 @@
 
 2. 進入專案目錄：
     ```bash
-    cd vue-weather
-    ```
-    ```bash
     cd weather
     ```
+   ```bash
+    cd vue-weather
+    ```
 
-3. 安裝相依套件：
+4. 安裝相依套件：
     ```bash
     npm install
     ```
 
-4. 啟動開發模式：
+5. 啟動開發模式：
     ```bash
     npm run dev
     ```
