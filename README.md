@@ -19,12 +19,12 @@
 
 1. 將此專案複製到本地端：
     ```bash
-    git clone https://github.com/your-username/weather-app.git
+    git clone https://github.com/whaaalekao/weather
     ```
 
 2. 進入專案目錄：
     ```bash
-    cd weather-app
+    cd vue-weather
     ```
 
 3. 安裝相依套件：
@@ -34,7 +34,7 @@
 
 4. 啟動開發模式：
     ```bash
-    npm run serve
+    npm run dev
     ```
 
 ## 使用方式
